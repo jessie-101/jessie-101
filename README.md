@@ -36,7 +36,7 @@ A restaurant website showcasing front-end development and web design skills.
 - [GitHub Repository](https://github.com/jessie-101/mini-restaurant-html-css)
 - [Live Website](https://jessie-101.github.io/-mini-restaurant-html-css/)
 
-### 4.### 4. Business Website
+### 4. Business Website
 
 A business website template demonstrating website structure, styling and front-end development.
 
